@@ -15,8 +15,8 @@ nav {
 
 
 .ft-perfil {
-    width: 500px;
-    height:500px;
+    width: 400px;
+    height:400px;
     border-radius: 50%;
     margin: 30px 0px 0px 60px;
     box-shadow: -1px -8px 12px -4px white,
@@ -25,7 +25,7 @@ nav {
 #sobremim {
     border: 8px solid rgb(23, 190, 196);
     height: 500px;
-    width: 1000px;
+    width: 800px;
     position: relative;
     margin: 30px 80px 0px 0px;
     border-radius: 10px;
