@@ -67,3 +67,18 @@
 }
 
 
+@media screen and (max-width: 630px){
+
+    .bxrede  {
+        width:40px;
+        height: 40px;
+    }
+
+   .bxrede span {
+    width: 40px;
+    height: 40px;
+    
+    
+}
+    
+}
