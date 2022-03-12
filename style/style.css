@@ -430,4 +430,10 @@ footer p {
 nav {
     height: 800px;
 }
+.projeto h3 {
+    left: -50px;
+}
+.projeto .desc {
+    left: -40px;
+}
 }
